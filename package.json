@@ -1,0 +1,17 @@
+{
+  "name": "mo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "16.7.0"
+  },
+  "author": "Mo",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
